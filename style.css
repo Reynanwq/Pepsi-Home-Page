@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    font-weight: Sofia Pro Regular, Helvetica Neue, Helvetica, Arial;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    text-transform: uppercase;
+    background-color: #0265c3;
+    padding: 10px;
+    color: white;
+}
+
+.navbar-left{
+
+}
+
+.navbar-item{
+
+}
