@@ -24,5 +24,6 @@ body{
 }
 
 .navbar-item{
-
+    padding-left: 20px;
+    cursor: pointer;
 }
