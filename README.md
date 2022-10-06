@@ -1,6 +1,6 @@
 <h1>Pepsi Home Page</h1>
 
-![Captura de tela de 2022-10-05 18-00-40](https://user-images.githubusercontent.com/90296084/194162839-85704570-fbc2-4670-aab3-d86ee8727334.png)
+![pepsi-Reynan](https://user-images.githubusercontent.com/90296084/194414111-20a50eb3-d927-4265-a928-0325a73b8cc0.png)
 
 >Status: Developing ⚠️
 
