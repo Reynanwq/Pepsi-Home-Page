@@ -1,9 +1,9 @@
-body{
+body {
     margin: 0;
     font-family: "Sofia Pro Black", Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
-.navbar{
+.navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -16,25 +16,42 @@ body{
     color: white;
 }
 
-.navbar-left{
+.navbar-left {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     flex-direction: row;
 }
 
-.navbar-item{
+.navbar-item {
     padding-left: 20px;
     cursor: pointer;
 }
 
-.navbar-right .navbar-item{
+.navbar-right .navbar-item {
     border-radius: 30px;
     border: 2px solid white;
     padding: 5px 25px;
 }
 
-.img img{
+.img img {
     height: 150px;
     width: 150px;
+}
+
+.product {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-item img {
+    max-width: 60%;
+    padding: 20px;
+}
+
+.product-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
