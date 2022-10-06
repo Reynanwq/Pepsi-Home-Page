@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: "Sofia Pro Black", Helvetica Neue, Helvetica, Arial, sans-serif;
+    height: 1000vh;
 }
 
 .navbar {
@@ -66,7 +67,7 @@ body {
     text-align: center;
 }
 
-.product-buttom {
+.product-button {
     border: 3px solid white;
     color: white;
     padding: 5px 35px;
