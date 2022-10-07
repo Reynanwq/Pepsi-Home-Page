@@ -1,6 +1,6 @@
 <h1>Pepsi Home Page</h1>
 
-![2022-10-06 21 03 06 127 0 0 1 5ad79593f905](https://user-images.githubusercontent.com/90296084/194439685-e1e56e6f-21b4-4953-9498-fb8eb6f06791.png)
+![2022-10-06 21 11 33 127 0 0 1 b10f5978de22](https://user-images.githubusercontent.com/90296084/194440267-c50d383c-f0fd-4d2d-be5a-f419b0dd7d17.png)
 
 
 >Status: Developing ⚠️
