@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;900&display=swap');
 body {
     margin: 0;
-    font-family: "Sofia Pro Black", Helvetica Neue, Helvetica, Arial, sans-serif;
-    height: 1000vh;
+    font-family: 'Raleway', sans-serif;
+    max-height: 1000vh;
 }
 
 .navbar {
@@ -27,6 +28,7 @@ body {
 .navbar-item {
     padding-left: 20px;
     cursor: pointer;
+    font-family: 'Raleway', sans-serif;
 }
 
 .navbar-right .navbar-item {
@@ -65,12 +67,34 @@ body {
     color: white;
     font-size: 23px;
     text-align: center;
+    font-family: 'Raleway', sans-serif;
 }
 
 .product-button {
+    font-family: 'Raleway', sans-serif;
     border: 3px solid white;
     color: white;
     padding: 5px 35px;
     border-radius: 30px;
     /*Circle*/
+}
+
+h1 {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.pepsi-zero {
+    width: 900px;
 }
